@@ -1,6 +1,4 @@
 import cv2 as cv
-import argparse
-import imutils
 
 print("Podaj kąt o jaki ma być obrócony obraz: ")
 x = float(input())

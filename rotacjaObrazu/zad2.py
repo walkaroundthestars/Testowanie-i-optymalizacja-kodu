@@ -1,6 +1,4 @@
 import cv2 as cv
-import argparse
-import imutils
 
 image = cv.imread('eiffel.jpg')
 cv.imshow("Image", image)
